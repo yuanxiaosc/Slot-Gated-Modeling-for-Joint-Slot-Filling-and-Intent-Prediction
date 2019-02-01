@@ -2,11 +2,10 @@
 Code parsing and paper parsing for "[Slot-Gated Modeling for Joint Slot Filling and Intent Prediction](http://www.aclweb.org/anthology/N18-2118)"
 
 ## Model Structure
-![](slot-gated model.PNG)
+![](![](https://raw.githubusercontent.com/yuanxiaosc/Slot-Gated-Modeling-for-Joint-Slot-Filling-and-Intent-Prediction/master/slot-gated%20model.PNG))
 
 ## Code Parsing
-![](slot-gated model analysis/slot-gated model analysis.png)
-
+![](https://raw.githubusercontent.com/yuanxiaosc/Slot-Gated-Modeling-for-Joint-Slot-Filling-and-Intent-Prediction/master/slot-gated%20model%20analysis/slot-gated%20model%20analysis.png)
 more info see slot-gated model analysis file!
 
 ## Paper Parsing
